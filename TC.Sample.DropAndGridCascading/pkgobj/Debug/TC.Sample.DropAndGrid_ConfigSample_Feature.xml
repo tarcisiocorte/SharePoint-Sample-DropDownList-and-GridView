@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Country list, County list, Address list" Id="c54b10b8-dfe7-4f06-b9fc-ce391a8381ea" ReceiverAssembly="TC.Sample.DropAndGridCascading, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6f736393511814bf" ReceiverClass="TC.Sample.DropAndGridCascading.Features.ConfigSample.ConfigSampleEventReceiver" Scope="Site" Title="TC - Sample - Web Part + List Creating">
+  <ElementManifests>
+    <ElementManifest Location="DropAndGrid\Elements.xml" />
+    <ElementFile Location="DropAndGrid\VisualWebPart1.webpart" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TC.Sample.DropAndGrid", "TC.Sample.DropAndGridCascading\TC.Sample.DropAndGrid.csproj", "{BA8E4266-28AB-43A9-976D-2821964AEFAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA8E4266-28AB-43A9-976D-2821964AEFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8E4266-28AB-43A9-976D-2821964AEFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8E4266-28AB-43A9-976D-2821964AEFAC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BA8E4266-28AB-43A9-976D-2821964AEFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8E4266-28AB-43A9-976D-2821964AEFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8E4266-28AB-43A9-976D-2821964AEFAC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

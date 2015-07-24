@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e224350b-8bd5-41f6-b85b-c46e6584f169" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="TC.Sample.DropAndGridCascading.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="TC.Sample.DropAndGridCascading, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6f736393511814bf" Namespace="TC.Sample.DropAndGridCascading.VisualWebPart1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\TC.Sample.DropAndGridCascading\DropAndGridCascading\VisualWebPart1UserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="TC.Sample.DropAndGrid_ConfigSample\Feature.xml" />
+  </FeatureManifests>
+</Solution>

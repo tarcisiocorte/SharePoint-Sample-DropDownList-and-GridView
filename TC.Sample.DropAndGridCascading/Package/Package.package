@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="e224350b-8bd5-41f6-b85b-c46e6584f169" solutionId="e224350b-8bd5-41f6-b85b-c46e6584f169" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="TC.Sample.DropAndGridCascading">
+    <features>
+        <featureReference itemId="c54b10b8-dfe7-4f06-b9fc-ce391a8381ea" />
+    </features>
+</package>
