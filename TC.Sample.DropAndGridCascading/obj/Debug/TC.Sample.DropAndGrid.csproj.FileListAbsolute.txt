@@ -2,3 +2,4 @@ C:\Users\spfarm\Documents\Visual Studio 2010\Projects\TC.Sample.DropAndGridCasca
 C:\Users\spfarm\Documents\Visual Studio 2010\Projects\TC.Sample.DropAndGridCascading\TC.Sample.DropAndGridCascading\bin\Debug\TC.Sample.DropAndGridCascading.pdb
 C:\Users\spfarm\Documents\Visual Studio 2010\Projects\TC.Sample.DropAndGridCascading\TC.Sample.DropAndGridCascading\obj\Debug\TC.Sample.DropAndGridCascading.dll
 C:\Users\spfarm\Documents\Visual Studio 2010\Projects\TC.Sample.DropAndGridCascading\TC.Sample.DropAndGridCascading\obj\Debug\TC.Sample.DropAndGridCascading.pdb
+C:\Users\spfarm\Documents\Visual Studio 2010\Projects\TC.Sample.DropAndGridCascading\TC.Sample.DropAndGridCascading\obj\Debug\TC.Sample.DropAndGrid.csprojResolveAssemblyReference.cache

@@ -5,6 +5,7 @@ using System.Web.UI.WebControls.WebParts;
 using Microsoft.SharePoint;
 using System.Data;
 using TC.Sample.DropAndGridCascading.Helper;
+using Microsoft.SharePoint.WebControls;
 
 namespace TC.Sample.DropAndGridCascading.VisualWebPart1
 {
@@ -141,20 +142,6 @@ namespace TC.Sample.DropAndGridCascading.VisualWebPart1
             AddNewRowToGrid();
         }
 
-        protected void Gridview1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        protected void Gridview1_RowCommand(object sender, GridViewCommandEventArgs e)
-        {
-
-        }
-
-        protected void Gridview1_RowDataBound(object sender, GridViewRowEventArgs e)
-        {
-
-        }
 
         protected void btnSave_Click(object sender, EventArgs e)
         {
@@ -180,11 +167,6 @@ namespace TC.Sample.DropAndGridCascading.VisualWebPart1
                 }
             }
 
-            for (int i = Gridview1.Rows.Count - 1; i > 0; i--)
-            {
-                this.Gridview1.DeleteRow(i);
-            }
-            this.Gridview1.DataBind();
             SetInitialRow();
 
         }

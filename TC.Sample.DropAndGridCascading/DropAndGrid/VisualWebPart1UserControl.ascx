@@ -33,4 +33,4 @@
     </Columns>
 </asp:GridView>
 <br />
-<asp:Button ID="btnSave" runat="server" Text="Save" onclick="btnSave_Click" />
+<asp:Button ID="btnSave" runat="server" Text="Save" OnClick="btnSave_Click" />
